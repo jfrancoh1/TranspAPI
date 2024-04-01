@@ -1,0 +1,17 @@
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\Application.Interface.AssemblyInfoInputs.cache
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\Application.Interface.AssemblyInfo.cs
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\bin\Debug\net8.0\Application.Interface.deps.json
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\bin\Debug\net8.0\Application.Interface.dll
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\bin\Debug\net8.0\Application.Interface.pdb
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\Application.Interface.dll
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\refint\Application.Interface.dll
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\Application.Interface.pdb
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\ref\Application.Interface.dll
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\bin\Debug\net8.0\Application.Dto.dll
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\bin\Debug\net8.0\Application.Dto.pdb
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\Application.Interface.csproj.AssemblyReference.cache
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\obj\Debug\net8.0\Applicat.93C7BB7F.Up2Date
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\bin\Debug\net8.0\Domain.dll
+C:\Users\Franco\source\repos\TranspAPI\Application.Interface\bin\Debug\net8.0\Domain.pdb

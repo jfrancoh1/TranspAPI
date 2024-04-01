@@ -1,0 +1,15 @@
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\bin\Debug\net8.0\Infrastructure.Interface.deps.json
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\bin\Debug\net8.0\Infrastructure.Interface.dll
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\bin\Debug\net8.0\Infrastructure.Interface.pdb
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\bin\Debug\net8.0\Domain.dll
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\bin\Debug\net8.0\Domain.pdb
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\Infrastructure.Interface.csproj.AssemblyReference.cache
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\Infrastructure.Interface.AssemblyInfo.cs
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\Infrastr.15415B74.Up2Date
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\Infrastructure.Interface.dll
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\refint\Infrastructure.Interface.dll
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\Infrastructure.Interface.pdb
+C:\Users\Franco\source\repos\TranspAPI\Infrastructure.Interface\obj\Debug\net8.0\ref\Infrastructure.Interface.dll

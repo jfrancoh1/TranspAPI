@@ -1,0 +1,17 @@
+C:\Users\Franco\source\repos\TranspAPI\Mappings\bin\Debug\net8.0\Mappings.deps.json
+C:\Users\Franco\source\repos\TranspAPI\Mappings\bin\Debug\net8.0\Mappings.dll
+C:\Users\Franco\source\repos\TranspAPI\Mappings\bin\Debug\net8.0\Mappings.pdb
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\Mappings.csproj.AssemblyReference.cache
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\Mappings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\Mappings.AssemblyInfoInputs.cache
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\Mappings.AssemblyInfo.cs
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\Mappings.csproj.CoreCompileInputs.cache
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\Mappings.dll
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\refint\Mappings.dll
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\Mappings.pdb
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\ref\Mappings.dll
+C:\Users\Franco\source\repos\TranspAPI\Mappings\bin\Debug\net8.0\Application.Dto.dll
+C:\Users\Franco\source\repos\TranspAPI\Mappings\bin\Debug\net8.0\Domain.dll
+C:\Users\Franco\source\repos\TranspAPI\Mappings\bin\Debug\net8.0\Application.Dto.pdb
+C:\Users\Franco\source\repos\TranspAPI\Mappings\bin\Debug\net8.0\Domain.pdb
+C:\Users\Franco\source\repos\TranspAPI\Mappings\obj\Debug\net8.0\Mappings.csproj.Up2Date

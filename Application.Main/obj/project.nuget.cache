@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgfEEc8ksmLpRGxjRPHQYXLAxTn6EgGREiQkKQMyB1w5gNFVgkr73v5zE2qPZxqHk/KMIVGZu4A29RspxECsCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Franco\\source\\repos\\TranspAPI\\Application.Main\\Application.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franco\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.3\\microsoft.aspnetcore.authentication.jwtbearer.8.0.3.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.0\\microsoft.identitymodel.abstractions.7.5.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.0\\microsoft.identitymodel.jsonwebtokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.0\\microsoft.identitymodel.logging.7.5.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.0\\microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.0\\system.identitymodel.tokens.jwt.7.5.0.nupkg.sha512",
+    "C:\\Users\\Franco\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
